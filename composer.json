@@ -1,0 +1,21 @@
+{
+    "name": "agade/woo-save-share-cart",
+    "description": "Save and share cart for WooCommerce.",
+    "type": "plugin",
+    "autoload": {
+        "psr-4": {
+            "Ankit\\WCSSC\\": "Includes"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ankit Gade",
+            "email": "contact@sharethingz.com"
+        },
+        {
+            "name": "AR Arif",
+            "email": "dev.ar.arif@gmail.com"
+        }
+    ]
+}
